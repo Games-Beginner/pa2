@@ -198,6 +198,4 @@ void rst::rasterizer::set_pixel(const Eigen::Vector3f& point, const Eigen::Vecto
 
 }
 
-
-
 // clang-format on
